@@ -1,0 +1,1 @@
+Over the summer break of 2020, I decided to enroll in Harvard's online web programming course (CS50) to help me make my own website. My progress in this course is still ongoing, so I do not have a fully functional website as of yet. I will keep updating this folder with more assignments/practice files as I continue to complete the course.
